@@ -1,2 +1,2 @@
 # -MNT---Halan-Backend-Problem-Solving-Challenge
-This repository contains solutions to various algorithmic problems. Each problem is organized in its own file, allowing for easy access and review. 
+This repository contains Java solutions to various algorithmic problems as part of the coding test for MNT-Halan. Each problem is organized in its own file for easy access and review. 
