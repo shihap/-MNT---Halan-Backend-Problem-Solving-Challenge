@@ -1,0 +1,7 @@
+1- fill container A from the water source: (A = 5, B = 0)
+2- fill container B from container A: (A = 2, B = 3)
+3- empty container B: (A = 2, B = 0)
+4- pour water from container A into container B: (A = 0, B = 2)
+5- fill container A from the water source: (A = 5, B = 2)
+6- fill container B from container A: (A = 4, B = 3)
+now container A has exactly 4 liters of water !!!!!!!!!!!!
